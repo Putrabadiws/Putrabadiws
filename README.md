@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My Profile 👋</h1>
 
 <p align="center">
-Fullstack Developer • AI Engineer • Product Builder
+Fullstack Developer • IT Enthusiast • Product Builder
 </p>
 
 
@@ -21,10 +21,7 @@ Fullstack Developer • AI Engineer • Product Builder
 
 ## 🚀 About Me
 
-- 🔭 Building AI Products
-- 🌱 Learning System Design
-- 💼 Fullstack Web Developer
-- 🇮🇩 Indonesia
+As a Data Analyst and experienced Web Developer, I don't just analyze numbers, I build the systems that collect them and the visualizations that make them speak. Dedicated to driving informed decision-making through technical excellence.
 
 ---
 
@@ -38,19 +35,8 @@ Fullstack Developer • AI Engineer • Product Builder
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Putrabadiws&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Putrabadiws&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect
 
-[Portfolio](https://yourportfolio.com) •
-[LinkedIn](https://linkedin.com/in/username)
+[Portfolio]([https://yourportfolio.com](https://web-portofolio-git-master-putrabadiws-projects.vercel.app/)) •
+[LinkedIn](https://linkedin.com/in/putraabadi)
