@@ -4,6 +4,26 @@
 Fullstack Developer • IT Enthusiast • Product Builder
 </p>
 
+<p align="center">
+  <a href="https://web-portofolio-git-master-putrabadiws-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Putra%20Abadi-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/putraabadi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Putra%20Abadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tuansitorus0304@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Putrabadiws" />
+</p>
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Putra Abadi banner" width="100%" />
+</p>
+
 ---
 
 ## 🚀 About Me
