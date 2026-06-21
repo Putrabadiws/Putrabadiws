@@ -5,7 +5,7 @@ Fullstack Developer • IT Enthusiast • Product Builder
 </p>
 
 <p align="center">
-  <a href="https://web-portofolio-git-master-putrabadiws-projects.vercel.app/">
+  <a href="https://putrasitorus-murex.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Putra%20Abadi-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/putraabadi/">
@@ -59,5 +59,5 @@ As a Data Analyst and experienced Web Developer, I don't just analyze numbers, I
 
 ## 🌐 Connect
 
-[Portfolio]([https://yourportfolio.com](https://web-portofolio-git-master-putrabadiws-projects.vercel.app/)) •
+[Portfolio](https://putrasitorus-murex.vercel.app/) •
 [LinkedIn](https://linkedin.com/in/putraabadi)
