@@ -28,7 +28,7 @@ Fullstack Developer • IT Enthusiast • Product Builder
 
 ## 🚀 About Me
 
-As a Data Analyst and experienced Web Developer, I don't just analyze numbers, I build the systems that collect them and the visualizations that make them speak. Dedicated to driving informed decision-making through technical excellence.
+As an experienced Web Developer and Data Analyst a, I build the systems that collect them and the visualizations that make them speak. Dedicated to driving informed decision-making through technical excellence.
 
 ---
 
