@@ -1,11 +1,7 @@
 <h1 align="center">Welcome to My Profile 👋</h1>
 
 <p align="center">
-  <img src="assets/fullstack.svg?v=1" alt="Fullstack Developer" height="44" />
-</p>
-
-<p align="center">
-IT Enthusiast • Product Builder
+Fullstack Developer • IT Enthusiast • Product Builder
 </p>
 
 <p align="center">
@@ -25,7 +21,7 @@ IT Enthusiast • Product Builder
 </p>
 
 <p align="center">
-  <img src="assets/hero.svg?v=2" alt="Putra Abadi" width="100%" />
+  <img src="assets/hero.svg?v=3" alt="Putra Abadi" width="100%" />
 </p>
 
 ---
