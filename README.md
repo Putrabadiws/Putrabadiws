@@ -21,7 +21,7 @@ Fullstack Developer • IT Enthusiast • Product Builder
 </p>
 
 <p align="center">
-  <img src="assets/hero.svg?v=3" alt="Putra Abadi" width="100%" />
+  <img src="assets/hero.svg?v=4" alt="Putra Abadi" width="100%" />
 </p>
 
 ---
